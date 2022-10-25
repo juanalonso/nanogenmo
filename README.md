@@ -8,6 +8,7 @@ El concepto de novela es muy relajado. En las reglas se indica que una novela "*
 La única regla es compartir el código y los resultados cuando termina el mes, usando las [issues](https://github.com/NaNoGenMo/2021/issues) de GitHub. En la [página oficial](https://nanogenmo.github.io/) tenéis toda la información. Y en [esta página](https://greg-kennedy.medium.com/10-print-novel-18fc5de0c68e) hay una selección de algunas obras que se presentaron en la convocatoria del 2021.
 
 ## Recursos, enlaces de interés, ideas...
+* [Natural Semantic Metalanguage](https://nsm-approach.net/)
 * Encuesta - [¿Qué palabra estoy definiendo?](https://docs.google.com/forms/d/e/1FAIpQLScee53SxsL_Q4BeGo_5apzi29kAabvhJ2V_C3ChuV2heoNk_g/viewform)
 * Herramientas comerciales de generación de textos - [Copy.ai](https://www.copy.ai/), [redacta.me](https://www.redacta.me/)
 * [10 Misogynistic Novels Every Woman Should Read](https://www.elle.com/culture/books/a32033/10-mysoginistic-novels-every-woman-should-read/)
